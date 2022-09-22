@@ -959,3 +959,4 @@
 2607:fb90:d230::/44,US,US-WI,Milwaukee,
 2607:fb90:d240::/44,US,US-WI,Milwaukee,
 2607:fb90:d250::/44,US,US-WI,Milwaukee,
+2607:fb90:6100::/44,CA,CA-ON,TORONTO,
